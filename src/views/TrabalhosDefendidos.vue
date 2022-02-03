@@ -1,5 +1,5 @@
 <template>
-  <iframe src="https://brunolofranoporto.github.io/lagas-webgis-mapboxOnly/" frameborder="0" height="800vh" width="100%"></iframe>
+  <iframe src="https://brunolofranoporto.github.io/lagas-webgis-mapboxOnly/" frameborder="0" height="1200px" width="100%"></iframe>
 </template>
 
 <script>

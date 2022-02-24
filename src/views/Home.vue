@@ -8,7 +8,7 @@
     <h2>Tecnologias utilizadas:</h2>
     <h4><span>Linguagens</span> - HTML, CSS e JavaScript</h4>
     <h4><span>Frameworks</span> - VueJS</h4>
-    <h4><span>Bibliotecas</span> - MapBox GL JS</h4>
+    <h4><span>Bibliotecas</span> - MapBox GL JS - Leaflet</h4>
   </div>
 </template>
 

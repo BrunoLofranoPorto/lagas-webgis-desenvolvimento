@@ -24,8 +24,8 @@ export default {
     <SidebarLink to="/" icon="fas fa-home">Home</SidebarLink>
     <SidebarLink to="/trabalhosdefendidos" icon="fas fa-map-marked">Trabalhos Defendidos</SidebarLink>
     <SidebarLink to="/anais" icon="far fa-map">Anais de Congresso</SidebarLink>
-    <!--<SidebarLink to="/analytics" icon="fas fa-chart-bar">Analytics</SidebarLink>
-    <SidebarLink to="/friends" icon="fas fa-users">Friends</SidebarLink>
+    <SidebarLink to="/livros" icon="fas fa-map-marked">Livros e Trabalhos Tecnicos</SidebarLink>
+    <!--<SidebarLink to="/friends" icon="fas fa-users">Friends</SidebarLink>
     <SidebarLink to="/image" icon="fas fa-image">Images</SidebarLink> -->
 
     <span

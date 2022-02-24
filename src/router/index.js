@@ -16,6 +16,11 @@ const routes = [
     path: '/anais',
     name: 'Anais',
     component: () => import('../views/Anais.vue')
+  },
+  {
+    path: '/livros',
+    name: 'LivrosETrabalhosTecnicos',
+    component: () => import('../views/LivrosETrabalhosTecnicos.vue')
   }
 ]
 

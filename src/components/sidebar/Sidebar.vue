@@ -25,8 +25,8 @@ export default {
     <SidebarLink to="/trabalhosdefendidos" icon="fas fa-map-marked">Trabalhos Defendidos</SidebarLink>
     <SidebarLink to="/anais" icon="far fa-map">Anais de Congresso</SidebarLink>
     <SidebarLink to="/livros" icon="fas fa-map-marked">Livros e Trabalhos Tecnicos</SidebarLink>
-    <!--<SidebarLink to="/friends" icon="fas fa-users">Friends</SidebarLink>
-    <SidebarLink to="/image" icon="fas fa-image">Images</SidebarLink> -->
+    <SidebarLink to="/artigos" icon="far fa-map">Artigos de Periódicos</SidebarLink>
+    <!--<SidebarLink to="/image" icon="fas fa-image">Images</SidebarLink> -->
 
     <span
       class="collapse-icon"

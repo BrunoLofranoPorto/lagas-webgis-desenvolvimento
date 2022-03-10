@@ -21,6 +21,11 @@ const routes = [
     path: '/livros',
     name: 'LivrosETrabalhosTecnicos',
     component: () => import('../views/LivrosETrabalhosTecnicos.vue')
+  },
+  {
+    path: '/artigos',
+    name: 'ArtigosPeriodicos',
+    component: () => import('../views/ArtigosPeriodicos.vue')
   }
 ]
 
